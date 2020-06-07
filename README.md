@@ -6,6 +6,7 @@ Table of contents
 =================
   * [Advertisement blocking](#advertisement-blocking)
   * [App stores](#app-stores)
+  * [Automation](#automation)
   * [Book readers](#book-readers)
   * [Browsers](#browsers)
   * [Cameras](#cameras)
@@ -67,6 +68,15 @@ Table of contents
 - **Requires Root**: Optional
 - [**F-Droid**](https://f-droid.org/en/packages/com.aurora.adroid/)
 - [**Source Code**](https://gitlab.com/AuroraOSS/auroradroid)
+
+## Automation
+
+### Easer
+
+Like tasker, but FOSS.
+
+- [**F-Droid**](https://f-droid.org/app/ryey.easer)
+- [**Source Code**](https://github.com/renyuneyun/Easer/)
 
 ## Book Readers
 
